@@ -18,6 +18,8 @@ Roughly 58,000 lines of Python since September 2026, written together with Claud
 ## Other projects
 
 - **[Sluhayu](https://sluhayu.com)**: the same assistant for Ukraine, on a Ukrainian number, with a radio campaign behind it
+- **[@klarDE_bot](https://t.me/klarDE_bot)**: explains German letters in Telegram and answers from a knowledge base (RAG). Takes text, photos, PDFs and voice messages
+- **postbot**: drafts posts for an insurance channel on Telegram, runs legal checks and publishes from a queue every day
 - **[@HoHoCallBot](https://t.me/HoHoCallBot)**: a Telegram bot where parents order a phone call from Santa for their child
 - **[@pic_restore_bot](https://t.me/pic_restore_bot)**: restores old photos in Telegram, paid with Telegram Stars
 
